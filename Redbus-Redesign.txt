@@ -1,0 +1,4 @@
+# Redesign of RedBus Ticket page:
+1. As of now, on clicking of VIEW SEATS, will perform content layout shift and insert the bus seat view
+2. I've redesigned to modal popup view, with tab approach. Thereby reducing Content Layout Shift
+3. Accessibility is also met on open of popup as the focus will be moved and trapped within the same bus and will not confuse the screenreader users
